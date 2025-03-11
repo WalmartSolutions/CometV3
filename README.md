@@ -7,7 +7,7 @@
 Atlantis API + horrible key system (15 executions per key), altho cool UI
 
 # How To Use
-1. Download [CometV3.zip]() & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
+1. Download [CometV3.zip](https://github.com/WalmartSolutions/CometV3/raw/refs/heads/main/CometV3.rar) & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
 2. Unzip CometV3.zip.
 3. Start Roblox Bloxstrap.
 4. Run CometApp.exe.
